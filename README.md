@@ -1,5 +1,5 @@
 ## Giới thiệu
-# Bài tập 12 - Queue
+# Bài tập 12
 
 # Yêu cầu:
 - Viết chương trình sử dụng FreeRTOS có tối thiểu 2 tác vụ:
